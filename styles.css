@@ -20,6 +20,7 @@ nav {
     list-style-type: none;
     width: 100%;
     height: 135px;
+    text-align:center;
 
 }
 
@@ -35,7 +36,7 @@ ul li {
     font-size: 14px;
     display: inline;
     padding: 10px 0;
-    font-family: normal normal normal;
+    font-family: normal;
     text-transform: uppercase;
     color: darkblue;
     display: inline-block;
@@ -50,9 +51,10 @@ ul li {
   }
 
   #herosection {
+    height: 50vh;
     width: 100vw;
-    height: 100vh;
     background-image: url(images/clear\ gym\ pic.webp);
     background-repeat: no-repeat;
-   background-size: contain;
-}
+   background-size: 100% 100%;
+  
+  }
