@@ -58,3 +58,24 @@ ul li {
    background-size: 100% 100%;
   
   }
+
+  #Ourmission {
+    background-color: lightblue;
+    text-align:center;
+    width: 600px;
+    height: 400px;
+    vertical-align: center;
+    
+  }
+
+ 
+
+  #block_container {
+      display:inline-block;
+  }
+
+  .pic {
+      width:600px;
+      height:400px;
+  }
+  
