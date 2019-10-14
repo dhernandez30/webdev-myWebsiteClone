@@ -98,11 +98,24 @@ ul li {
 }
 
 #Athletics {
-    background-color: lightseagreen
+    background-color: lightseagreen;
 }
 
 
 #Technology {
-    background-color: lightskyblue
-
+    background-color: lightskyblue;
+    
 }
+
+.twobox {
+    display: inline-block;
+    background-color: red;
+    height: 500px;
+    width: 670px;
+}
+
+#Contactus {
+    background-image: url(Images/school\ pic.webp);
+    
+}
+
