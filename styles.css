@@ -59,23 +59,50 @@ ul li {
   
   }
 
-  #Ourmission {
-    background-color: lightblue;
-    text-align:center;
-    width: 600px;
-    height: 400px;
-    vertical-align: center;
-    
-  }
+
 
  
+.explorebox {
+    height: 300px;
+    width: 672px;
+    display: inline-block;
+}
 
-  #block_container {
-      display:inline-block;
-  }
+.sll {
+    width:700px;
+    height:300px;
+    float: right;
+}
 
-  .pic {
-      width:600px;
-      height:400px;
-  }
-  
+#Ourmission {
+    float: left;
+    text-align: center;
+    vertical-align: center;
+}
+
+.colorbox {
+    height: 300px;
+    width: 334px;
+    background-color: blue;
+    display: inline-block;
+
+}
+
+#Academics {
+    background-color: lightslategray;
+}
+
+#Admissions {
+    background-color: lightsalmon;
+
+}
+
+#Athletics {
+    background-color: lightseagreen
+}
+
+
+#Technology {
+    background-color: lightskyblue
+
+}
