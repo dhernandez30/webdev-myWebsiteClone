@@ -147,3 +147,14 @@ ul li {
     background-image: url(images/giardinos.jpg);
     background-size: 100% 100%;
 }
+
+#footer {
+    width: 100vw;
+    height: 200px;
+    background-color: darkblue;
+}
+
+.footerlogo{
+    align-content: center;
+    float: center;
+}
