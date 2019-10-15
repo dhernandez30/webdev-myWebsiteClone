@@ -109,13 +109,41 @@ ul li {
 
 .twobox {
     display: inline-block;
-    background-color: red;
+    background-color: lightgrey;
     height: 500px;
     width: 670px;
 }
 
 #Contactus {
     background-image: url(Images/school\ pic.webp);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     
 }
 
+.bottomrow {
+    height: 300px;
+    width: 333px;
+    display:inline-block;
+    background-color: yellow;
+}
+
+#Helpinghands {
+    background-image: url(Images/helping\ hands.jpg);
+    background-size: 100% 100%;
+}
+
+#Girls {
+    background-image: url(images/lourdes.jpg);
+    background-size: 100% 100%;
+}
+
+#Dads {
+    background-image: url(images/dads.jpg);
+    background-size: 100% 100%;
+}
+
+#Giardanos {
+    background-image: url(images/giardinos.jpg);
+    background-size: 100% 100%;
+}
