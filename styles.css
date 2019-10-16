@@ -38,7 +38,7 @@ ul li {
     padding: 10px 0;
     font-family: normal;
     text-transform: uppercase;
-    color: darkblue;
+    color: #132D4F;
     display: inline-block;
     margin: 0 8px;
     text-align: center;
@@ -78,6 +78,7 @@ ul li {
     float: left;
     text-align: center;
     vertical-align: center;
+    color: #123D4f;
 }
 
 .colorbox {
@@ -86,6 +87,7 @@ ul li {
     background-color: blue;
     display: inline-block;
     text-align: center;
+    color: #132d4f;
 
 }
 
@@ -121,7 +123,12 @@ ul li {
     background-size: 100% 100%;
     vertical-align: top;
     text-align:center;
+    color: #132D4f;
     
+}
+
+#form {
+    background-image: url(Images/)
 }
 
 .bottomrow {
@@ -155,9 +162,11 @@ ul li {
     width: 100vw;
     height: 200px;
     background-color: darkblue;
+    color:white;
 }
 
 .footerlogo{
     align-content: center;
     float: center;
 }
+
