@@ -85,6 +85,7 @@ ul li {
     width: 303px;
     background-color: blue;
     display: inline-block;
+    text-align: center;
 
 }
 
@@ -118,6 +119,8 @@ ul li {
     background-image: url(Images/school\ pic.webp);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    vertical-align: top;
+    text-align:center;
     
 }
 
