@@ -1,4 +1,3 @@
-  
 * {
     margin: 0px;
     padding: 0px;
@@ -64,7 +63,7 @@ ul li {
  
 .explorebox {
     height: 300px;
-    width: 950px;
+    width: 672px;
     display: inline-block;
 }
 
@@ -77,18 +76,12 @@ ul li {
 #Ourmission {
     float: left;
     text-align: center;
-    
-
-}
-
-#video {
-   
-    float:right;
+    vertical-align: center;
 }
 
 .colorbox {
     height: 300px;
-    width: 472px;
+    width: 334px;
     background-color: blue;
     display: inline-block;
 
@@ -117,19 +110,20 @@ ul li {
     display: inline-block;
     background-color: lightgrey;
     height: 500px;
-    width: 948px;
+    width: 670px;
 }
 
 #Contactus {
     background-image: url(Images/school\ pic.webp);
     background-repeat: no-repeat;
     background-size: 100% 100%;
+    vertical-align: top;
     
 }
 
 .bottomrow {
     height: 300px;
-    width: 472px;
+    width: 333px;
     display:inline-block;
     background-color: yellow;
 }
